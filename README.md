@@ -56,6 +56,7 @@ Objetivos de aprendizaje:
 - [Luis León](https://www.linkedin.com/in/luisleonandonayre/)
 
 ## Sobre el contenido
+
 Este repositorio contiene trabajos y resultados producidos por estudiantes como parte del [club #75](https://clubesdecienciaperu.org/project/cdecpe75-ciencia-que-transforma-liderazgo-datos-y-gestion-publica/) de [Clubes de Ciencia Perú](https://clubesdecienciaperu.org).   Los resultados del [módulo 03](Modulo-03) y [módulo 04](Modulo-04) no han pasado por un proceso de revisión de pares ni verificación formal. Los contenidos pueden contener errores conceptuales, metodológicos y/o técnicos. No se asume ninguna responsabilidad por el uso que terceros hagan de esta información.
 
 ## Licencia
