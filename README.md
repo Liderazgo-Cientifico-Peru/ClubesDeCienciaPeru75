@@ -1,15 +1,16 @@
 # Ciencia que Transforma: Liderazgo, Ciencia de Datos y Gestión Pública
 
-## Descripción: 
+Memoria del [club #75](https://clubesdecienciaperu.org/project/cdecpe75-ciencia-que-transforma-liderazgo-datos-y-gestion-publica/) de [Clubes de Ciencia Perú](https://clubesdecienciaperu.org).
+
+## Descripción
+
 Este taller está diseñado para formar una nueva generación de estudiantes STEM como líderes capaces de usar datos para generar cambios positivos en la sociedad. 
-A través de sesiones prácticas, análisis de casos reales del contexto peruano, herramientas abiertas como Python y metodologías participativas. Los, y las, participantes aprenderán a tomar decisiones informadas, comunicar resultados de forma efectiva y diseñar propuestas con impacto social.
+A través de sesiones prácticas, análisis de casos reales del contexto peruano, herramientas abiertas como Python y metodologías participativas. 
+Los, y las, participantes aprenderán a tomar decisiones informadas, comunicar resultados de forma efectiva y diseñar propuestas con impacto social.
 
 El enfoque combina liderazgo, análisis de datos y pensamiento sistémico para abordar desafíos públicos como la educación, la salud, el medio ambiente y la innovación científica, desde la ciencia aplicada y con un fuerte sentido de responsabilidad social.
 Al finalizar, cada participante contará con un plan de acción personal y un proyecto de análisis de datos enfocado en transformar una problemática real del país.
 
-## Instructores:
-- [Alejandro de la Puente](https://www.linkedin.com/in/alejandro-de-la-puente/)
-- [Luis León](https://www.linkedin.com/in/luisleonandonayre/)
 ## Objetivos
 
 ### Módulo 1: Introducción al Liderazgo Científico y Políticas Basadas en Evidencia
@@ -39,7 +40,7 @@ Objetivos de aprendizaje:
 - Aplicar herramientas básicas de análisis exploratorio de datos utilizando ejemplos reales de acceso a servicios públicos (como educación o salud).
 - Reflexionar sobre el uso responsable y ético de los datos en la formulación de políticas.
 
-### Módulo 4: Laboratorio de Soluciones – Prototipado de Intervenciones Basadas en Datos
+### Módulo 4: Laboratorio de Soluciones - Prototipado de Intervenciones Basadas en Datos
 
 Objetivos de aprendizaje:
 
@@ -48,3 +49,8 @@ Objetivos de aprendizaje:
 - Utilizar datos abiertos para sustentar propuestas de intervención.
 - Comunicar de forma efectiva una propuesta de política pública o intervención estratégica basada en evidencia, incorporando análisis de actores, datos y enfoque sistémico.
 - Fortalecer competencias colaborativas, de liderazgo, y de pensamiento estratégico orientado al impacto.
+
+## Instructores
+
+- [Alejandro de la Puente](https://www.linkedin.com/in/alejandro-de-la-puente/) 
+- [Luis León](https://www.linkedin.com/in/luisleonandonayre/)
