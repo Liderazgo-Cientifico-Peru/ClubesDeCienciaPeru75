@@ -13,7 +13,7 @@ Al finalizar, cada participante contará con un plan de acción personal y un pr
 
 ## Objetivos
 
-### Módulo 1: Introducción al Liderazgo Científico y Políticas Basadas en Evidencia
+### [Módulo 1](Modulo-01): Introducción al Liderazgo Científico y Políticas Basadas en Evidencia
 
 Objetivos de aprendizaje:
 
@@ -22,7 +22,7 @@ Objetivos de aprendizaje:
 - Identificar el valor de las políticas basadas en evidencia y el rol de la ciencia, tecnología e innovación (CTI) en el desarrollo nacional.
 - Conocer el ecosistema de CTI en Perú y reflexionar sobre los desafíos para el liderazgo emergente en este campo.
 
-### Módulo 2: Pensamiento Sistémico y Mapeo de Actores para la Toma de Decisiones
+### [Módulo 2](Modulo-02): Pensamiento Sistémico y Mapeo de Actores para la Toma de Decisiones
 
 Objetivos de aprendizaje:
 
@@ -31,7 +31,7 @@ Objetivos de aprendizaje:
 - Construir mapas de actores y relaciones de poder para entender el contexto institucional y social de una política pública.
 - Identificar puntos de apalancamiento y oportunidades de intervención dentro de sistemas complejos.
 
-### Módulo 3: Ciclo de Ciencia de Datos para la Política Pública
+### [Módulo 3](Modulo-03): Ciclo de Ciencia de Datos para la Política Pública
 
 Objetivos de aprendizaje:
 
@@ -40,7 +40,7 @@ Objetivos de aprendizaje:
 - Aplicar herramientas básicas de análisis exploratorio de datos utilizando ejemplos reales de acceso a servicios públicos (como educación o salud).
 - Reflexionar sobre el uso responsable y ético de los datos en la formulación de políticas.
 
-### Módulo 4: Laboratorio de Soluciones - Prototipado de Intervenciones Basadas en Datos
+### [Módulo 4](Modulo-04): Laboratorio de Soluciones - Prototipado de Intervenciones Basadas en Datos
 
 Objetivos de aprendizaje:
 
@@ -54,3 +54,10 @@ Objetivos de aprendizaje:
 
 - [Alejandro de la Puente](https://www.linkedin.com/in/alejandro-de-la-puente/) 
 - [Luis León](https://www.linkedin.com/in/luisleonandonayre/)
+
+## Sobre el contenido
+Este repositorio contiene trabajos y resultados producidos por estudiantes como parte del [club #75](https://clubesdecienciaperu.org/project/cdecpe75-ciencia-que-transforma-liderazgo-datos-y-gestion-publica/) de [Clubes de Ciencia Perú](https://clubesdecienciaperu.org).   Los resultados del [módulo 03](Modulo-03) y [módulo 04](Modulo-04) no han pasado por un proceso de revisión de pares ni verificación formal. Los contenidos pueden contener errores conceptuales, metodológicos y/o técnicos. No se asume ninguna responsabilidad por el uso que terceros hagan de esta información.
+
+## Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
