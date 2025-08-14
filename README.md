@@ -52,8 +52,8 @@ Objetivos de aprendizaje:
 
 ## Instructores
 
-- [Alejandro de la Puente](https://www.linkedin.com/in/alejandro-de-la-puente/) 
-- [Luis León](https://www.linkedin.com/in/luisleonandonayre/)
+- [Dr. Alejandro de la Puente](https://www.linkedin.com/in/alejandro-de-la-puente/) 
+- [MSc. Luis León](https://www.linkedin.com/in/luisleonandonayre/)
 
 ## Sobre el contenido
 
